@@ -12,9 +12,7 @@ Front-End Developer na Windel Sistemas Ltda.
   <img src="https://img.shields.io/badge/GIT-00758F?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITFLOW-333333?style=for-the-badge&logo=git&logoColor=white" />
 
-  
-</p>
-#### Frameworks/Libraries
+#### Frameworks/Libraries  
 <p>
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Chakra UI-61DBFB?style=for-the-badge&logo=chakraui&logoColor=black" />
