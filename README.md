@@ -16,5 +16,5 @@ Front-End Developer na Windel Sistemas Ltda.
 #### Frameworks/Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChakraUI-61DBFB?style=for-the-badge&logo=chakraui&logoColor=black" />
+  <img src="https://img.shields.io/badge/Chakra UI-61DBFB?style=for-the-badge&logo=chakraui&logoColor=black" />
 </p>
