@@ -1,6 +1,6 @@
 ### Oi, sou o Lucas Pirolli!
 
-Front-End Developer na [Windel Sistemas Ltda.]
+Front-End Developer na Windel Sistemas Ltda.
 
 :briefcase: <a href="https:/" target="_blank">LinkedIn</a><br>
 
@@ -16,5 +16,5 @@ Front-End Developer na [Windel Sistemas Ltda.]
 #### Frameworks/Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChakraUI-61DBFB?style=for-the-badge&logo=swiper&logoColor=black" />
+  <img src="https://img.shields.io/badge/ChakraUI-61DBFB?style=for-the-badge&logo=chakraui&logoColor=black" />
 </p>
