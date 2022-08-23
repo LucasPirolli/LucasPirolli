@@ -1,8 +1,8 @@
 ### Oi, sou o Lucas Pirolli!
 
-Front-End Developer na Windel Sistemas Ltda.
+Front-End Junior Developer
 
-:briefcase: <a href="https:/" target="_blank">LinkedIn</a><br>
+<a href="https:/" target="_blank">LinkedIn</a><br>
 
 #### Tecnologias
 <p>
