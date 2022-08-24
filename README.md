@@ -20,6 +20,6 @@ Front-End Junior Developer
 
 #### IDE 
 <p>
-  <img src="https://img.shields.io/badge/VSCODE-61DBFB?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-  <img src="https://img.shields.io/badge/WEBSTORM-61DBFB?style=for-the-badge&logo=webstorm&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+  <img src="https://img.shields.io/badge/WEBSTORM-f5ed00?style=for-the-badge&logo=jetbrains&logoColor=black" />
 </p>
