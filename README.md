@@ -1,6 +1,6 @@
 <h1>Front-End Junior Developer</h1>
 
-<a href="https://br.linkedin.com/in/lucas-pirolli-aa64031b3" target="_blank">LinkedIn</a><br>
+:briefcase: <a href="https://br.linkedin.com/in/lucas-pirolli-aa64031b3" target="_blank">LinkedIn</a><br>
 
 #### Skills
 
