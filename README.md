@@ -16,6 +16,7 @@
 
 #### IDE 
   <p>
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     <img src="https://img.shields.io/badge/VsCode-090a0a?style=for-the-badge&logo=visualstudiocode&logoColor=61DBFB" />
     <img src="https://img.shields.io/badge/Web Storm-090a0a?style=for-the-badge&logo=webstorm&logoColor=61DBFB" />
   </p>
