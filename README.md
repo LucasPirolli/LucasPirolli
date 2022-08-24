@@ -17,3 +17,9 @@ Front-End Junior Developer
   <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Chakra UI-61DBFB?style=for-the-badge&logo=chakraui&logoColor=black" />
 </p>
+
+#### IDE 
+<p>
+  <img src="https://img.shields.io/badge/VSCODE-61DBFB?style=for-the-badge&logo=vscode&logoColor=black" />
+  <img src="https://img.shields.io/badge/WEBSTORM-61DBFB?style=for-the-badge&logo=webstorm&logoColor=black" />
+</p>
