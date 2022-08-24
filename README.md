@@ -1,25 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc4903&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Bastos+Pirolli;I'm+18+years+old;I+from+Caxias+do+Sul,+RS;I+study+analysis+and+systems+development+at+UCS;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1>Front-End Junior Developer</h1>
 
-Front-End Junior Developer
+<a href="https://br.linkedin.com/in/lucas-pirolli-aa64031b3" target="_blank">LinkedIn</a><br>
 
-<a href="https:/" target="_blank">LinkedIn</a><br>
+#### Skills
 
-#### Tecnologias
-<p>
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-c9510c?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITFLOW-333?style=for-the-badge&logo=git&logoColor=white" />
-
-#### Frameworks/Libraries  
-<p>
-  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Chakra UI-61DBFB?style=for-the-badge&logo=chakraui&logoColor=black" />
-</p>
+  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+  
+  
+#### Libraries  
+  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+  ![Chakra.IU](https://img.shields.io/badge/-Chakra.UI-0D1117?style=for-the-badge&logo=chakraui&labelColor=0D1117)&nbsp;
 
 #### IDE 
-<p>
-  <img src="https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-  <img src="https://img.shields.io/badge/WEBSTORM-1897ba?style=for-the-badge&logo=jetbrains&logoColor=black" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/VsCode-090a0a?style=for-the-badge&logo=visualstudiocode&logoColor=61DBFB" />
+    <img src="https://img.shields.io/badge/Web Storm-090a0a?style=for-the-badge&logo=webstorm&logoColor=61DBFB" />
+  </p>
+
+  
