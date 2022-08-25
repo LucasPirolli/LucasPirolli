@@ -16,9 +16,12 @@
   ![Chakra.IU](https://img.shields.io/badge/-Chakra.UI-0D1117?style=for-the-badge&logo=chakraui&labelColor=0D1117)&nbsp;
   ![WebPack](https://img.shields.io/badge/-WebPack-0D1117?style=for-the-badge&logo=webpack&labelColor=0D1117)&nbsp;
 
-<!-- #### IDE 
+#### IDE
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-0D1117?style=for-the-badge&logo=webstorm&labelColor=0D1117)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
+
+  
  
   
 
