@@ -1,7 +1,5 @@
 <h1>Front-End Junior Developer</h1>
 
-:briefcase: <a href="https://br.linkedin.com/in/lucas-pirolli-aa64031b3" target="_blank">LinkedIn</a><br>
-
 #### Skills
 
   ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -19,6 +17,8 @@
 #### IDE
   ![WebStorm](https://img.shields.io/badge/-WebStorm-0D1117?style=for-the-badge&logo=webstorm&labelColor=0D1117)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+  :briefcase: <a href="https://br.linkedin.com/in/lucas-pirolli-aa64031b3" target="_blank">LinkedIn</a><br>
   
 
   
