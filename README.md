@@ -14,6 +14,7 @@
 #### Libraries  
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
   ![Chakra.IU](https://img.shields.io/badge/-Chakra.UI-0D1117?style=for-the-badge&logo=chakraui&labelColor=0D1117)&nbsp;
+  ![WebPack](https://img.shields.io/badge/-Chakra.UI-0D1117?style=for-the-badge&logo=webpack&labelColor=0D1117)&nbsp;
 
 <!-- #### IDE 
   
