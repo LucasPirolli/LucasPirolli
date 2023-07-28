@@ -3,7 +3,7 @@
 #### Skills
   
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  ![SASS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=SASS&logoColor=CD6799&labelColor=0D1117)&nbsp;
+  ![SASS](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=SASS&logoColor=CD6799&labelColor=0D1117)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
 #### IDE
