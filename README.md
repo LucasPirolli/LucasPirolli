@@ -1,4 +1,4 @@
-<h1>Front-End Junior Developer</h1>
+<h1>Front-End Developer</h1>
 
 #### Skills
   
